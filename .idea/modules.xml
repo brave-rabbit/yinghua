@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yinghua.iml" filepath="$PROJECT_DIR$/yinghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinghua-coupon/yinghua-coupon.iml" filepath="$PROJECT_DIR$/yinghua-coupon/yinghua-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinghua-member/yinghua-member.iml" filepath="$PROJECT_DIR$/yinghua-member/yinghua-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinghua-order/yinghua-order.iml" filepath="$PROJECT_DIR$/yinghua-order/yinghua-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinghua-product/yinghua-product.iml" filepath="$PROJECT_DIR$/yinghua-product/yinghua-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinghua-ware/yinghua-ware.iml" filepath="$PROJECT_DIR$/yinghua-ware/yinghua-ware.iml" />
+    </modules>
+  </component>
+</project>
